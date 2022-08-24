@@ -1,0 +1,1031 @@
+fileFormatVersion: 2
+guid: 0ea0df2326fdb0a4e933ba70421cb2d7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sushiushi_001_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 2837
+        width: 624
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a676422bf5366784299b8f9ab188b358
+      internalID: -1640906732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_2
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 2525
+        width: 1003
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89bf8772741a5074fb622e721aa79d73
+      internalID: 1890136829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_3
+      rect:
+        serializedVersion: 2
+        x: 2001
+        y: 2494
+        width: 754
+        height: 1010
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac908c6b35b0704cae10c5bb3dc788f
+      internalID: 1790096405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_4
+      rect:
+        serializedVersion: 2
+        x: 2925
+        y: 2978
+        width: 368
+        height: 376
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bfd7897394b50d46a8551d4285dc0ce
+      internalID: 1665370799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_5
+      rect:
+        serializedVersion: 2
+        x: 3543
+        y: 1943
+        width: 549
+        height: 1518
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467f8088abb5898448ac23fa034fda7f
+      internalID: -575877350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_6
+      rect:
+        serializedVersion: 2
+        x: 4418
+        y: 3143
+        width: 699
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80fdda60525f4f4598e7a529d3c12e9
+      internalID: 1423474412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_7
+      rect:
+        serializedVersion: 2
+        x: 5280
+        y: 2868
+        width: 946
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4ecdabb144def488dab1bcfc774e8f
+      internalID: 2068192862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_8
+      rect:
+        serializedVersion: 2
+        x: 3522
+        y: 3086
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33bc4dd0a4f9c294eb3af5a4d5a20958
+      internalID: -1861165818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_9
+      rect:
+        serializedVersion: 2
+        x: 4103
+        y: 3086
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0d0e069aeb17f44b45b106ce2ba79f
+      internalID: -1461737688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_11
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2258
+        width: 628
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069a982ea9d17ad4bb477c6ed5162c1e
+      internalID: -1973844952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_12
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 2580
+        width: 478
+        height: 297
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d857fdfc06a32574185b4507af330369
+      internalID: -1623544226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_14
+      rect:
+        serializedVersion: 2
+        x: 4285
+        y: 2712
+        width: 788
+        height: 315
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022bb4c611974c14fabc599287aa64e2
+      internalID: -1136006446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_17
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2041
+        width: 406
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd74078921c9ad479eb9aac284ced07
+      internalID: -716253786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_18
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 11
+        width: 711
+        height: 2403
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29acaf4f87b68304180bd47c5ed54903
+      internalID: -536173046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_19
+      rect:
+        serializedVersion: 2
+        x: 2739
+        y: 35
+        width: 710
+        height: 2450
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9aa985dbbcb3c47a65a232d87962a2
+      internalID: 1527135229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_20
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 2264
+        width: 481
+        height: 312
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef29ecfcce4bcf6488fae53258c56de8
+      internalID: 469568519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_22
+      rect:
+        serializedVersion: 2
+        x: 5403
+        y: 2139
+        width: 470
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40537b710cf11fe4f87682d4b5d0823e
+      internalID: 401834036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_23
+      rect:
+        serializedVersion: 2
+        x: 6056
+        y: 2240
+        width: 102
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7e0f9fbff26764d93ed80067b95feb
+      internalID: 2048041464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_24
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1545
+        width: 625
+        height: 683
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83f27de7737b3934da4ae205268b6fe9
+      internalID: -823785004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_25
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 2120
+        width: 515
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b776669ffc568d04e954d98bb683f373
+      internalID: 1036438333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_26
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 1920
+        width: 854
+        height: 243
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4185b0955935fc64aaee1598ceaa8247
+      internalID: 643235943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_27
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1379
+        width: 184
+        height: 610
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e9f48a175c334449883b1540d7ed88
+      internalID: 1095367353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_28
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1490
+        width: 92
+        height: 456
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a977024ee7adb843a520fcc1fef1ef6
+      internalID: 725215576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_29
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 1386
+        width: 147
+        height: 606
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62ff867a90db394993f15de617e3599
+      internalID: -154918434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_30
+      rect:
+        serializedVersion: 2
+        x: 5540
+        y: 1848
+        width: 624
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db62b5d5ae2d380408ace03ff1fd2419
+      internalID: 1534793460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_31
+      rect:
+        serializedVersion: 2
+        x: 3660
+        y: 1444
+        width: 854
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae453107c3924c4ba6362de0565e03d
+      internalID: -1438790374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_32
+      rect:
+        serializedVersion: 2
+        x: 4582
+        y: 1456
+        width: 851
+        height: 331
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d6078d800543a4aa0a1348d4ad09f1
+      internalID: -2116404044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_33
+      rect:
+        serializedVersion: 2
+        x: 5564
+        y: 1609
+        width: 132
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbdf37835eea784f97845c6aa93d820
+      internalID: -877325611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_34
+      rect:
+        serializedVersion: 2
+        x: 5852
+        y: 1484
+        width: 344
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0da14ef87df0b4f8f9cc95b233af5b
+      internalID: -613430030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_36
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 911
+        width: 676
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2deee5db83b1e441be25112a42ace98
+      internalID: 127615266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_37
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1125
+        width: 609
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c72182de369b448b9aa01839f6820
+      internalID: 1727263689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_38
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 834
+        width: 1414
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7749a9df7f2547c40bf6ff95ef15d8b5
+      internalID: -746800590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_39
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 547
+        width: 467
+        height: 835
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f45c2bd529dcf4eb01fa4806842e4d
+      internalID: 1849625728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_40
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 709
+        width: 888
+        height: 367
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a2c6dd0a61fd148a16f4dfeffdcd5e
+      internalID: -1804322745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_41
+      rect:
+        serializedVersion: 2
+        x: 5926
+        y: 850
+        width: 303
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05262bf4ddf88241acaffb5c79eff4b
+      internalID: 1631901822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 196
+        width: 676
+        height: 620
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c965f6942ae16704f8a8e627629f6e5b
+      internalID: 1716303747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_43
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 283
+        width: 861
+        height: 362
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f9337a79e8dc84289594d724ea5969
+      internalID: -1791710267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_44
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 277
+        width: 1414
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cb8e1946763ae4a9f153d6dfe59d94
+      internalID: 989516321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_45
+      rect:
+        serializedVersion: 2
+        x: 5932
+        y: 495
+        width: 336
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc68ba3201622e47b8b2db189db98a2
+      internalID: -1887465086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_46
+      rect:
+        serializedVersion: 2
+        x: 5385
+        y: 69
+        width: 323
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d443a6be3ce1f4e47a0fa495857afd52
+      internalID: -2038204263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sushiushi_001_47
+      rect:
+        serializedVersion: 2
+        x: 5867
+        y: 57
+        width: 331
+        height: 260
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7213514b68175434587b2c0f4d6b00bd
+      internalID: 1665206008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      sushiushi_001_8: -1861165818
+      sushiushi_001_20: 469568519
+      sushiushi_001_21: 1457532797
+      sushiushi_001_26: 643235943
+      sushiushi_001_47: 1665206008
+      sushiushi_001_42: 1716303747
+      sushiushi_001_12: -1623544226
+      sushiushi_001_37: 1727263689
+      sushiushi_001_27: 1095367353
+      sushiushi_001_7: 2068192862
+      sushiushi_001_16: -1301020272
+      sushiushi_001_24: -823785004
+      sushiushi_001_28: 725215576
+      sushiushi_001_15: -1638747158
+      sushiushi_001_40: -1804322745
+      sushiushi_001_41: 1631901822
+      sushiushi_001_3: 1790096405
+      sushiushi_001_44: 989516321
+      sushiushi_001_33: -877325611
+      sushiushi_001_4: 1665370799
+      sushiushi_001_30: 1534793460
+      sushiushi_001_45: -1887465086
+      sushiushi_001_5: -575877350
+      sushiushi_001_17: -716253786
+      sushiushi_001_32: -2116404044
+      sushiushi_001_19: 1527135229
+      sushiushi_001_2: 1890136829
+      sushiushi_001_18: -536173046
+      sushiushi_001_1: -1021259182
+      sushiushi_001_36: 127615266
+      sushiushi_001_0: -1640906732
+      sushiushi_001_23: 2048041464
+      sushiushi_001_9: -1461737688
+      sushiushi_001_34: -613430030
+      sushiushi_001_22: 401834036
+      sushiushi_001_11: -1973844952
+      sushiushi_001_39: 1849625728
+      sushiushi_001_35: 1138334102
+      sushiushi_001_46: -2038204263
+      sushiushi_001_31: -1438790374
+      sushiushi_001_38: -746800590
+      sushiushi_001_14: -1136006446
+      sushiushi_001_10: 789392476
+      sushiushi_001_43: -1791710267
+      sushiushi_001_6: 1423474412
+      sushiushi_001_25: 1036438333
+      sushiushi_001_29: -154918434
+      sushiushi_001_13: 803992880
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
